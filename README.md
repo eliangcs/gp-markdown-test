@@ -7,3 +7,9 @@ hello `{{input}}` "{{input}}"
 raw `{{input}}`
 
 {% endraw %}
+
+<!-- {% raw %} -->
+
+raw `{{input}}`
+
+<!-- {% endraw %} -->
